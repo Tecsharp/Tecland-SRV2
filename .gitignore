@@ -14,3 +14,5 @@ plugins/Essentials/userdata/*
 *.zip
 plugins/Essentials/usermap.csv
 plugins/AuthMe/authme.log
+usercache.json
+usernamecache.json
