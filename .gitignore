@@ -4,16 +4,11 @@
 *.txt
 .DS_Store
 
-/lobby/playerdata/
-/lobby/stats/
-/lobby/skin-database/
-/plugins/Essentials/userdata/
 
-lobby/playerdata/
-lobby/stats/
-lobby/skin-database/
-plugins/Essentials/userdata/
-
+lobby/playerdata/*
+lobby/stats/*
+lobby/skin-database/* 
+plugins/Essentials/userdata/*
 
 !/lobby/wd_next.txt 
 *.zip
