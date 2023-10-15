@@ -1,0 +1,14 @@
+Name: Streamer
+Cooldown: 0
+Permission: greatkits.kits.Streamer
+Order: 0
+FirstTimeJoinKit: false
+OneTimeUse: false
+Icon:
+  ==: org.bukkit.inventory.ItemStack
+  type: ROTTEN_FLESH
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §rStreaner
+    internal: H4sIAAAAAAAAAONiYOBiEEwsys0vLUotKg7PL8ouzsgv4GLgykxJzSvJTMtMLWJm4EjPyU9KzPFMYQACDgaO4uzMvJDKglQGfrhOq6Sc/ORsZgZ2IAVSyWawJBdoNHtKZapLYkkiUB8AGxxpCGsAAAA=

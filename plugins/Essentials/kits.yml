@@ -1,0 +1,7 @@
+# EssentialsX kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+kits:
+  identificacion:
+    delay: 0
+    items:
+    - paper 1 name:Identificación lore:{PLAYER}

@@ -1,0 +1,155 @@
+Name: elite
+Cooldown: 691200
+Permission: greatkits.kits.elite
+Order: 0
+FirstTimeJoinKit: false
+OneTimeUse: false
+Inventory:
+  Main:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 10
+      internal: H4sIAAAAAAAAAONiYGBm4AjJz88JqSxIZWBgYGQAAAO1ZRcTAAAA
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 3
+        LOOT_BONUS_BLOCKS: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_FISHING_ROD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        LUCK: 4
+        LURE: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_ARROW
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_BOW
+  - ==: org.bukkit.inventory.ItemStack
+    type: EXP_BOTTLE
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: ANVIL
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_COMMON
+    amount: 10
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_RARE
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_EPIC
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_FURNACE
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_INGOT
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: EPLUS_ADVANCED_TABLE
+  - ==: org.bukkit.inventory.ItemStack
+    type: EVILCRAFT_BLOOD_CHEST
+  - ==: org.bukkit.inventory.ItemStack
+    type: EVILCRAFT_BLOOD_INFUSER
+  - ==: org.bukkit.inventory.ItemStack
+    type: EVILCRAFT_BLOOD_EXTRACTOR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBiYHXLKc1M4WDgBNN+ibmpDHypZZk5yUWJaSVJOfn5KcwMbI65+aV5JQwMwh0MDAAA/D5vNgAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    type: BACKPACKS16840_BACKPACK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkYPHJL0rlYGBgYGTQdnL2zU+xUjBLSUxONU5L0U0zMjbXNUlMNde1NDM10E2zNEhNNUhNMrFMAupgLy5JTM72TGFQIUY9AwBEZcJrbQAAAA==
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  Armor:
+  - null
+  - null
+  - null
+  - null
+Icon:
+  ==: org.bukkit.inventory.ItemStack
+  type: ROTTEN_FLESH
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §rElite
+    lore:
+    - §aAvailable
+    internal: H4sIAAAAAAAAAONiYGBjYEvOSCxKT3W468MABgCciQykFQAAAA==

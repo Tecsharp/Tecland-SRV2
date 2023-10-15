@@ -1,0 +1,44 @@
+[
+  {
+    "uuid": "e9b33495-a762-3ddc-b316-30056d89cf18",
+    "name": "TomasDaniel",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f1e85593-ee2c-3869-b265-832d347b5b31",
+    "name": "OokamiNoGame",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "33245eac-bc16-3282-b4ab-172fd5233ea8",
+    "name": "ArchToon",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6d5035a1-bd99-35f3-9d7c-7348f93945d9",
+    "name": "tecsharo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "38aa02d2-ee48-3198-9a74-d2f017644aa6",
+    "name": "Diegohazard",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ccc510af-71d1-3975-80fd-69db6cb7b641",
+    "name": "Tecsharp",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0bce8193-a522-361d-ae18-388f4c7830bc",
+    "name": "AdrielRdz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,0 +1,291 @@
+CREATE TABLE achievements (
+	playername char(36),
+	achievement varchar(64),
+	date varchar(250),
+	PRIMARY KEY (playername)
+);
+CREATE TABLE advancementscompleted (
+	playername char(36),
+	advancementscompleted int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE anvils (
+	playername char(36),
+	anvils int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE arrows (
+	playername char(36),
+	arrows int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE beds (
+	playername char(36),
+	beds int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE booksedited (
+	playername char(36),
+	booksedited int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE breaks (
+	playername char(36),
+	blockid varchar(128),
+	breaks int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE breeding (
+	playername char(36),
+	mobname varchar(128),
+	breeding int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE brewing (
+	playername char(36),
+	brewing int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE connections (
+	playername char(36),
+	connections int,
+	date varchar(10),
+	PRIMARY KEY (playername)
+);
+CREATE TABLE consumedpotions (
+	playername char(36),
+	consumedpotions int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE crafts (
+	playername char(36),
+	item varchar(128),
+	crafts int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE custom (
+	playername char(36),
+	customname varchar(128),
+	custom int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE deaths (
+	playername char(36),
+	deaths int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE distanceboat (
+	playername char(36),
+	distanceboat int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE distancefoot (
+	playername char(36),
+	distancefoot int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE distancegliding (
+	playername char(36),
+	distancegliding int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE distancehorse (
+	playername char(36),
+	distancehorse int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE distancellama (
+	playername char(36),
+	distancellama int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE distanceminecart (
+	playername char(36),
+	distanceminecart int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE distancepig (
+	playername char(36),
+	distancepig int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE distancesneaking (
+	playername char(36),
+	distancesneaking int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE drops (
+	playername char(36),
+	drops int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE eatenitems (
+	playername char(36),
+	eatenitems int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE effectsheld (
+	playername char(36),
+	effect varchar(128),
+	effectsheld int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE eggs (
+	playername char(36),
+	eggs int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE enchantments (
+	playername char(36),
+	enchantments int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE enderpearls (
+	playername char(36),
+	enderpearls int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE fertilising (
+	playername char(36),
+	fertilising int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE fireworks (
+	playername char(36),
+	fireworks int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE fish (
+	playername char(36),
+	fish int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE hoeplowing (
+	playername char(36),
+	hoeplowing int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE itembreaks (
+	playername char(36),
+	itembreaks int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE jobsreborn (
+	playername char(36),
+	jobname varchar(128),
+	jobsreborn int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE kills (
+	playername char(36),
+	mobname varchar(128),
+	kills int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE lavabuckets (
+	playername char(36),
+	lavabuckets int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE levels (
+	playername char(36),
+	levels int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE milks (
+	playername char(36),
+	milks int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE musicdiscs (
+	playername char(36),
+	musicdiscs int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE petmastergive (
+	playername char(36),
+	petmastergive int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE petmasterreceive (
+	playername char(36),
+	petmasterreceive int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE pickups (
+	playername char(36),
+	pickups int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE places (
+	playername char(36),
+	blockid varchar(128),
+	places int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE playedtime (
+	playername char(36),
+	playedtime int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE playercommands (
+	playername char(36),
+	command varchar(128),
+	playercommands int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE raidswon (
+	playername char(36),
+	raidswon int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE riptides (
+	playername char(36),
+	riptides int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE shears (
+	playername char(36),
+	shears int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE smelting (
+	playername char(36),
+	smelting int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE snowballs (
+	playername char(36),
+	snowballs int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE tames (
+	playername char(36),
+	tames int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE targetsshot (
+	playername char(36),
+	targetname varchar(128),
+	targetsshot int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE trades (
+	playername char(36),
+	trades int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE treasures (
+	playername char(36),
+	treasures int,
+	PRIMARY KEY (playername)
+);
+CREATE TABLE waterbuckets (
+	playername char(36),
+	waterbuckets int,
+	PRIMARY KEY (playername)
+);
+INSERT INTO achievements(playername, achievement, date) VALUES ('ccc510af-71d1-3975-80fd-69db6cb7b641', 'connect_1', '1689551542862');
+INSERT INTO connections(playername, connections, date) VALUES ('ccc510af-71d1-3975-80fd-69db6cb7b641', '1', '16/07/2023');
+INSERT INTO distancefoot(playername, distancefoot) VALUES ('ccc510af-71d1-3975-80fd-69db6cb7b641', '8');
+INSERT INTO playedtime(playername, playedtime) VALUES ('ccc510af-71d1-3975-80fd-69db6cb7b641', '61863');

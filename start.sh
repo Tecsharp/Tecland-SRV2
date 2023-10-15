@@ -1,0 +1,1 @@
+sudo screen -AmdS minecraft java -jar -Xmx6G -Xms6G /home/tecsharp/server/server.jar

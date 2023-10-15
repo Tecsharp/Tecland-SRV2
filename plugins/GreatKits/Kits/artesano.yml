@@ -1,0 +1,135 @@
+Name: artesano
+Cooldown: 691200
+Permission: greatkits.kits.artesano
+Order: 0
+FirstTimeJoinKit: false
+OneTimeUse: false
+Inventory:
+  Main:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_INTERMEDIUM_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_INTERMEDIUM_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_INTERMEDIUM_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_INTERMEDIUM_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: ADVANCEDCOMBAT_ADVANCED_EMERALD_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_INTERMEDIUM_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_INTERMEDIUM_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_INTERMEDIUM_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_INTERMEDIUM_FISHING_ROD
+  - ==: org.bukkit.inventory.ItemStack
+    type: PORK
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: RAW_CHICKEN
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: APPLE
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: POTATO_ITEM
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: CARROT_ITEM
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: PUMPKIN_SEEDS
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: MELON_SEEDS
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_COMMON
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_INGOT
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: FLINT
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: TORCH
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: OPFRAME_OPFRAME
+    amount: 5
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  Armor:
+  - null
+  - null
+  - null
+  - null
+Icon:
+  ==: org.bukkit.inventory.ItemStack
+  type: ROTTEN_FLESH
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §rArtesano
+    lore:
+    - §aAvailable

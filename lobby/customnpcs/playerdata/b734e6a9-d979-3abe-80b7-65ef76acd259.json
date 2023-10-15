@@ -1,0 +1,38 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "MuMa",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 2319068L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "b734e6a9-d979-3abe-80b7-65ef76acd259",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 4
+        }
+    ]
+}

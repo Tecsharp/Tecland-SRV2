@@ -1,0 +1,44 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Tecsharp",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 2,
+                "Date": 14152589L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "ccc510af-71d1-3975-80fd-69db6cb7b641",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 12
+        }
+    ]
+}

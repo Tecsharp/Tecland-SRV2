@@ -1,0 +1,158 @@
+Name: sugardaddy
+Cooldown: 691200
+Permission: greatkits.kits.sugardaddy
+Order: 0
+FirstTimeJoinKit: false
+OneTimeUse: false
+Inventory:
+  Main:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 6
+      internal: H4sIAAAAAAAAAONiYGBm4HQsys0vCqksSGVgYGBlAADr0typFAAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 6
+      internal: H4sIAAAAAAAAAONiYGBm4HQsys0vCqksSGUAAQCuJqvUFAAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 6
+      internal: H4sIAAAAAAAAAONiYGBm4HQsys0vCqksSGVgYGBnAABpsOqbFAAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 6
+      internal: H4sIAAAAAAAAAONiYGBm4HQsys0vCqksSGUAAQCuJqvUFAAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    type: ADVANCEDCOMBAT_ADVANCED_NETHER_STAR_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+        LOOT_BONUS_BLOCKS: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        ARROW_INFINITE: 1
+      internal: H4sIAAAAAAAAAONiYGBm4AjJz88JqSxIZWBgYGUAAAdwCXMTAAAA
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_ARROW
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_FISHING_ROD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        LUCK: 5
+        LURE: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_EPIC
+    amount: 10
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_COMMON
+    amount: 10
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_RARE
+    amount: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_ULTIMATE_FURNACE
+  - ==: org.bukkit.inventory.ItemStack
+    type: IC2_TE
+    damage: 1
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: OBSIDIAN
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_INGOT
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: COAL_BLOCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: EXP_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: TORCH
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BACKPACKS16840_BACKPACK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkYPHJL0rlYGBgYGTQdnL2zU+xUjBLSUxONU5L0U0zMjbXNUlMNde1NDM10E2zNEhNNUhNMrFMAupgLy5JTM72TGFQIUY9AwBEZcJrbQAAAA==
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  Armor:
+  - null
+  - null
+  - null
+  - null
+Icon:
+  ==: org.bukkit.inventory.ItemStack
+  type: ROTTEN_FLESH
+  damage: 13
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §rSugar Daddy
+    lore:
+    - §aAvailable

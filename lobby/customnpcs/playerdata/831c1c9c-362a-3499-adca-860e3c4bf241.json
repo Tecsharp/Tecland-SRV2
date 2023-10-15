@@ -1,0 +1,38 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Zabdita",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 7847914L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "831c1c9c-362a-3499-adca-860e3c4bf241",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 4
+        }
+    ]
+}

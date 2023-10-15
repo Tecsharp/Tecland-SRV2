@@ -1,0 +1,28 @@
+PlayerLastName: UsuarioDePrueba
+EnderChestSize: 18
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIRT
+    amount: 2
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: GRAVESTONE_DEATH_INFO
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAI2PS27CMBRFL7KRShiwAYZMI4XyUyJVYsACmHSMXhy7spBj5I+ArKIr6ha6CoasITUS6pjZHZxz73sZkIHrVlmG4cn6wxXA9pm7vq++n/nS9x/TN/CWjMTk00dy2u7k3kVZEwNrtEkmOHjQicDA/f7c7kmIUTeYrdebeqlWMq/LucgXjWpyklTmqhTLRfFezAtVjDDUQRqfpR7GMPKBxNHrLrVhwMCNDPTY+L8iCNv64KIIVW3tES8446SQMy/zk47OVAly8vCVHnlgfw39hXYzAQAA
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: ZAWA_CARE_GUIDE
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: GRAVESTONE_DEATH_INFO
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAADVPuw6CMBS9hJIIi5N/4EoCghiMo7suDk7kQm+1MYChxShf5+7AJ2GJuJ2TnKcH4AGTlahtcO61yl4AcJhwNwxpPuHnMOzOM2AVlgTzk2qxkfWejk1LOdpgc1kaJzBgWhoFWE3//vTG0LaSwzJJNnks1uTnaVj4ERfcR8LUF2kRR8EqCAMRuOBITaXyTI5lg6s0FjclO/pxVpLGseO/YnFp8EFK1xVtOaG+ZuMPI/gC/qKP4tUAAAA=
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: TORCH
+    amount: 64

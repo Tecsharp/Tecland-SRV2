@@ -1,0 +1,146 @@
+Name: soldado
+Cooldown: 691200
+Permission: greatkits.kits.soldado
+Order: 0
+FirstTimeJoinKit: false
+OneTimeUse: false
+Inventory:
+  Main:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: ADVANCEDCOMBAT_ADVANCED_DIAMOND_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_FISHING_ROD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        LUCK: 1
+        DURABILITY: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE_TORCH_ON
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: OPFRAME_OPFRAME
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: ARMOR_STAND
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_INGOT
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENDER_PEARL
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: OBSIDIAN
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_RARE
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_COMMON
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: COOKED_CHICKEN
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: COOKED_BEEF
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: GRILLED_PORK
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: APPLE
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: POTATO_ITEM
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: CARROT_ITEM
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: PUMPKIN_SEEDS
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: MELON_SEEDS
+    amount: 16
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  Armor:
+  - null
+  - null
+  - null
+  - null
+Icon:
+  ==: org.bukkit.inventory.ItemStack
+  type: ROTTEN_FLESH
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §rSoldado
+    lore:
+    - §aAvailable

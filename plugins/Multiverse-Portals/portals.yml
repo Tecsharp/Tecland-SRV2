@@ -1,0 +1,131 @@
+portals:
+  creativo1:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Tecsharp
+    location: -50267.0,42.0,-50680.0:-50264.0,44.0,-50680.0
+    world: survival
+    destination: p:creativo2
+  creativo2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Tecsharp
+    location: -250.0,67.0,183.0:-247.0,70.0,183.0
+    world: creativo
+    destination: p:creativo1
+  endcity1:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Tecsharp
+    location: -50255.0,39.0,-50636.0:-50252.0,41.0,-50636.0
+    world: survival
+  mina1:
+    entryfee:
+      currency: -1
+      amount: 200.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Tecsharp
+    location: -50289.0,33.0,-50647.0:-50289.0,35.0,-50644.0
+    world: survival
+    destination: p:mina2
+  mina2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Tecsharp
+    location: -23.0,64.0,-3.0:-23.0,67.0,0.0
+    world: DIM-11325
+    destination: p:mina1
+  parkour1:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Tecsharp
+    location: -50291.0,37.0,-50666.0:-50291.0,39.0,-50663.0
+    world: survival
+  twilight1:
+    entryfee:
+      currency: -1
+      amount: 100.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Tecsharp
+    location: -50277.0,37.0,-50633.0:-50274.0,39.0,-50633.0
+    world: survival
+    destination: p:twilight2
+  twilight2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Tecsharp
+    location: -41.0,32.0,202.0:-41.0,35.0,205.0
+    world: DIM7
+    destination: p:twilight1
+  nether1:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Tecsharp
+    location: -10.0,91.0,9.0:-10.0,93.0,10.0
+    world: nether
+    destination: p:nether0
+  nether0:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Tecsharp
+    location: -140.0,52.0,115.0:-140.0,53.0,116.0
+    world: lobby
+    destination: p:nether1
+  survival1:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Tecsharp
+    location: -50184.0,64.0,-50512.0:-50184.0,65.0,-50511.0
+    world: survival
+    destination: p:survival0
+  survival0:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Tecsharp
+    location: -168.0,61.0,92.0:-167.0,63.0,92.0
+    world: lobby
+    destination: p:survival1

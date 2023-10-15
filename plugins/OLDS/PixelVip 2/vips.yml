@@ -1,0 +1,16 @@
+activeVips:
+  Esclavo: {}
+  SugarDaddy:
+    ccc510af-71d1-3975-80fd-69db6cb7b641:
+      kit-cooldown: 1594179940127
+      duration: -1594179940126
+      active: false
+  Youtuber:
+    ccc510af-71d1-3975-80fd-69db6cb7b641:
+      playerGroup:
+      - Usuario
+      duration: 1594266340115
+      nick: Tecsharp
+      expires-on-exact: 09/07/2020 03:45:40
+      active: true
+  Streamer: {}

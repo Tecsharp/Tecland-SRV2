@@ -1,0 +1,150 @@
+Name: funcionario
+Cooldown: 691200
+Permission: greatkits.kits.funcionario
+Order: 0
+FirstTimeJoinKit: false
+OneTimeUse: false
+Inventory:
+  Main:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: ADVANCEDCOMBAT_NETHER_STAR_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 2
+        LOOT_BONUS_BLOCKS: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_BOW
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_FISHING_ROD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        LUCK: 2
+        LURE: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: BACKPACKS16840_BACKPACK
+    damage: 12
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkYPHJL0rlYGBgYGTQdnL2zU+xUjAzMLUwSzYw1zU2NTHRNUk0MtRNMk5O0jUyNkg1T0wzSDI0NeFgYC8uSUzO9kxhUCFGPQMAfZyfbW0AAAA=
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_COMMON
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_RARE
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: ANVIL
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTMENT_TABLE
+  - ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENDER_PEARL
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_INGOT
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE_BLOCK
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE_TORCH_ON
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: OBSIDIAN
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: TNT
+    amount: 10
+  - ==: org.bukkit.inventory.ItemStack
+    type: OPFRAME_OPFRAME
+    amount: 7
+  - ==: org.bukkit.inventory.ItemStack
+    type: ARMOR_STAND
+    amount: 2
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  Armor:
+  - null
+  - null
+  - null
+  - null
+Icon:
+  ==: org.bukkit.inventory.ItemStack
+  type: ROTTEN_FLESH
+  damage: 2564
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §rFuncionario
+    lore:
+    - §aAvailable

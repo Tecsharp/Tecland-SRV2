@@ -1,0 +1,39 @@
+PlayerLastName: TomasDaniel
+EnderChestSize: 54
+EnderChestInventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: PAPER
+    amount: 19
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE
+    amount: 8
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: COOKED_BEEF
+    amount: 7
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: STRING
+    amount: 4
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER
+    amount: 2
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: ELEVATORID_ELEVATOR_BLUE
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: COBBLESTONE
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: SMOOTH_BRICK
+    damage: 1
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: COMFORTS_SLEEPING_BAG
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: OPFRAME_OPFRAME

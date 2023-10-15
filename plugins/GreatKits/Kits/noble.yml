@@ -1,0 +1,150 @@
+Name: noble
+Cooldown: 691200
+Permission: greatkits.kits.noble
+Order: 0
+FirstTimeJoinKit: false
+OneTimeUse: false
+Icon:
+  ==: org.bukkit.inventory.ItemStack
+  type: ROTTEN_FLESH
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §rNoble
+    lore:
+    - §aAvailable
+Inventory:
+  Main:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: IONITEMS_ION_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: IONITEMS_ION_CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: IONITEMS_ION_LEGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: IONITEMS_ION_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPREMIUM_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYGBm4AjJz88JqSxIZWBgYGQAAAO1ZRcTAAAA
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 3
+        LOOT_BONUS_BLOCKS: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_BOW
+  - ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_SUPERIUM_FISHING_ROD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        LUCK: 3
+        LURE: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: BACKPACKS16840_BACKPACK
+    damage: 4
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkYPHJL0rlYGBgYGTQdnL2zU+xUkizMLRMMjdI0jVOMjDSNbFMNdFNNDM10DVPS0tKMTOyTDE3MORgYC8uSUzO9kxhUCFGPQMALW4++m0AAAA=
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_COMMON
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_RARE
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_EPIC
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: OBSIDIAN
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTMENT_TABLE
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENDER_CHEST
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: ANVIL
+  - ==: org.bukkit.inventory.ItemStack
+    type: ARMOR_STAND
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENDER_PEARL
+    amount: 10
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_INGOT
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+    amount: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: EVILCRAFT_BLOOD_EXTRACTOR
+  - ==: org.bukkit.inventory.ItemStack
+    type: EVILCRAFT_DARK_POWER_GEM
+    amount: 5
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  Armor:
+  - null
+  - null
+  - null
+  - null

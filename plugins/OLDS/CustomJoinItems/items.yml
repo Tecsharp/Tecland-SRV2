@@ -1,0 +1,10 @@
+first-item:
+  name: '&aMenu del servidor'
+  id: 345
+  slot: 1
+  lore:
+    - '&7Abrir el menu del servidor'
+  command: 'menu'
+  cooldown-seconds: 1
+  permission: 'customjoinitems.test'
+  disabled-worlds: world_nether, world_the_end, survival, parcelas

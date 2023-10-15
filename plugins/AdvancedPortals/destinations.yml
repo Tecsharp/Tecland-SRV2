@@ -1,0 +1,24 @@
+# 
+#  ExampleDestination:
+#    world: it will be the world name
+#    pos:
+#      X:
+#      Y:
+#      Z:
+
+test1:
+  world: world
+  pos:
+    X: 1178.4513185051824
+    Y: 89.0
+    Z: -998.9284081489502
+    pitch: 22.254436
+    yaw: 354.58936
+test2:
+  world: misionesflat
+  pos:
+    X: -539.9418610872171
+    Y: 5.0
+    Z: -412.2078397311855
+    pitch: 90.0
+    yaw: 43.080627

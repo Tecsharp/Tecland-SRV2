@@ -1,0 +1,104 @@
+Name: ytst
+Cooldown: 691200
+Permission: greatkits.kits.ytst
+Order: 0
+FirstTimeJoinKit: false
+OneTimeUse: false
+Icon:
+  ==: org.bukkit.inventory.ItemStack
+  type: ROTTEN_FLESH
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §rYoutuber/Streamer
+    internal: H4sIAAAAAAAAAONiYOBiEEwsys0vLUotKg7PL8ouzsgv4GLgykxJzSvJTMtMLeJg4CjOzswLqSxIZeCDK7XKSE1MYWbgSM/JT0rM8UxhAAJmBvac/GQQz3azlyPQZPaUylSXxJJEoBwAO/7d7GoAAAA=
+Inventory:
+  Main:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: IONITEMS_ION_HEAD
+  - ==: org.bukkit.inventory.ItemStack
+    type: IONITEMS_ION_CHEST
+  - ==: org.bukkit.inventory.ItemStack
+    type: IONITEMS_ION_LEGS
+  - ==: org.bukkit.inventory.ItemStack
+    type: IONITEMS_ION_BOOTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: IONITEMS_ION_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+  - ==: org.bukkit.inventory.ItemStack
+    type: TWILIGHTFOREST_ENDER_BOW
+  - ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BACKPACKS16840_BACKPACK
+    damage: 12
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYOBkYPHJL0rlYGBgYGTQdnL2zU+xUkgzMTAwNzO20DU3NjHWNTFJM9K1MEhL0U00MTY0TEs0SzVNS+JgYC8uSUzO9kxhUCFGPQMAwd4DAG0AAAA=
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_EPIC
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_COMMON
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: MEGALOOT_WEAPONCASE_RARE
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: IC2_JETPACK_ELECTRIC
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      internal: H4sIAAAAAAAAAONiYGBjYEvOSCxKT3W468MABgCciQykFQAAAA==
+  - ==: org.bukkit.inventory.ItemStack
+    type: TCONSTRUCT_SLIMESLING
+    damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: TCONSTRUCT_SLIME_BOOTS
+    damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: EXP_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: EPLUS_ADVANCED_TABLE
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: TORCH
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: TWILIGHTFOREST_TWILIGHT_SAPLING
+    damage: 3
+    amount: 4
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  Armor:
+  - null
+  - null
+  - null
+  - null

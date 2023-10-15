@@ -1,0 +1,108 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+#
+#
+# SKYBLOCK
+#    - askyblock.island.maxhomes.0
+#    - askyblock.team.maxsize.10
+#
+#
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  Default:
+    default: true
+    permissions:
+    - -bukkit.command.kill
+    - essentials.kits.tp
+    - essentials.kit
+    - essentials.back
+    - essentials.delhome
+    - essentials.pay
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.warps.*
+    - essentials.sethome
+    - essentials.sethome.bed
+    - essentials.sethome.multiple
+    - essentials.home
+
+    - jobs.item.elytra
+    - jobs.item.LureBook
+    - jobs.item.shovel
+    - jobs.item.pickaxe
+    - jobs.item.BlazeStick
+    - jobs.item.ironchestplate
+    - jobs.item.trident
+    - jobs.item.diamondsword1
+    - jobs.item.arcofuego
+    - jobs.item.shulkerbox
+
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:towny_default
+    info:
+      prefix: '&e'
+      build: false
+      suffix: ''
+  Builder:
+    default: false
+    permissions: []
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      prefix: '&2'
+      build: true
+      suffix: ''
+  Moderator:
+    default: false
+    permissions: []
+    inheritance:
+    - builder
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      prefix: '&5'
+      build: true
+      suffix: ''
+  Admin:
+    default: false
+    permissions: []
+    inheritance:
+    - moderator
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      prefix: '&f[&bAdmin&f] '
+      build: true
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - '*'
+    - -vanish.effects.*
+    - +vanish.effects.toggle.all
+    inheritance:
+    - admin
+    info:
+      prefix: '&4'
+      build: true
+      suffix: ''

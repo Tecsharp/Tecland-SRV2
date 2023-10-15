@@ -1,0 +1,13 @@
+Name: esclavo
+Cooldown: 0
+Permission: greatkits.kits.esclavo
+Order: 0
+FirstTimeJoinKit: false
+OneTimeUse: false
+Icon:
+  ==: org.bukkit.inventory.ItemStack
+  type: ROTTEN_FLESH
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §rEsclavo

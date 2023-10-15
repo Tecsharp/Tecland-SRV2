@@ -1,0 +1,40 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "ArchToon",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 2,
+                "Date": 14152567L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "33245eac-bc16-3282-b4ab-172fd5233ea8",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 12
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+PlayerLastName: nekomamushii
+EnderChestSize: 45
+EnderChestInventory:
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    type: IC2_CRAFTING
+    damage: 13
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    type: MUTTON
+    amount: 2
+  '43':
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD_HOE
+    damage: 26
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+    amount: 20
+  '28':
+    ==: org.bukkit.inventory.ItemStack
+    type: IC2_INGOT
+    damage: 5
+    amount: 2
+  '39':
+    ==: org.bukkit.inventory.ItemStack
+    type: CONARM_BOOK
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    type: IC2_INGOT
+    damage: 1
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    type: BETTERNETHER_BARREL_CACTUS
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    type: BETTERNETHER_CINCINNASITE
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: IC2_INGOT
+    damage: 2
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:water
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: NETHER_STALK
+    amount: 32
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:water
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    type: CHOCOCRAFT_ABILITY_FRUIT
+    damage: 1
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+    amount: 5
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BARDING
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    type: CHOCOCRAFT_ABILITY_FRUIT
+    damage: 3
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    type: SHIELD
+  '42':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BARDING
+  '37':
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_HOE
+    damage: 154
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: SOUL_SAND
+    amount: 16
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+    amount: 2
+  '40':
+    ==: org.bukkit.inventory.ItemStack
+    type: APPLE
+    amount: 4
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_SPADE
+    damage: 1
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: MYSTICALAGRICULTURE_CRAFTING
+    damage: 36

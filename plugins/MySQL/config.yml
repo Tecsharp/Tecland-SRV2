@@ -1,0 +1,8 @@
+host: 'localhost'
+user: 'tec'
+password: '123'
+database: 'minecraft'
+port: '3306'
+driver: mysql
+tls_Version: ''
+use_SSL: false

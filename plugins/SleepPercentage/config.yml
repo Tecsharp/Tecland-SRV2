@@ -1,0 +1,242 @@
+percentageperworld:
+  world:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  DIM-23:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  DIM-1:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  lavaland:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  nether:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  end:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  DIM1:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  DIM-9:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  DIM-9999:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  DIM-11325:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  DIM-17:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  misiones:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  misionesflat:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  minas:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  ASkyBlock:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  ASkyBlock_nether:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  DIM7:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  creativo:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  test:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  world2:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  lobby:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  survival:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+sleepingEnabled: true
+messages:
+  enabled:
+    color:
+    - GOLD
+    message: '{0}Habilitar porcentaje para dormir'
+  disabled:
+    color:
+    - GOLD
+    message: '{0}Deshabilitar porcentaje para dormir'
+  set:
+    color:
+    - GOLD
+    message: '{0}Set Sleep Percentage to [0]% for [1]'
+  not_sleeping:
+    color:
+    - LIGHT_PURPLE
+    - GRAY
+    message: '{0}[0]{1} ya no está dormido.'
+  sleeping:
+    color:
+    - LIGHT_PURPLE
+    - GOLD
+    message: '{0}[0]{1} está durmiendo'
+  total:
+    color:
+    - GOLD
+    - GRAY
+    message: '{1}Actualmente el {0}[0]%{1} de jugadores están durmiendo fuera del
+      {0}[1]{1}% necesario'
+  daytick:
+    color:
+    - GOLD
+    message: '{0}Set Day Tick to [0]'
+  worldDisable:
+    color:
+    - GOLD
+    message: '{0}Set [1] to be disabled: [0]'
+  worldDisableFailed:
+    color:
+    - RED
+    - LIGHT_PURPLE
+    message: '{0}The world {1}[0]{0} does not exist'

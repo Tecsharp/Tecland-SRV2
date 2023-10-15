@@ -1,0 +1,51 @@
+Confiscate: false
+UpdateChecker: false
+Delay: 10
+Filter:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 87
+- 12
+- 112
+- 13
+- 17
+- 18
+- 159
+- 162
+- 172
+- 323
+- 174
+- 24
+- 38
+- 6
+- 31
+- 79
+Ban Reason:
+- This item %d is banned in world %s because
+Blacklist:
+- '6749:0:Demasiado op y dañina '
+- '5593:1:Demasiado op y dañina '
+- '7063:0:Crea demasiado lag '
+- '4327:1:Usa los portales debajo del arbol en lobby. '
+- '4330:0:Laguea el server. '
+- '4331:0:Laguea el server. '
+- '4507:9:Daña zonas seguras. '
+- '4364:82:Aqui no se puede usar esto, hijo de la vrg '
+- '5311:-1:Presenta errores '
+- '4364:-1:Causa lag '
+- '4278:-1:Causa lag '
+- '6602:-1:Causa lag '
+- '6597:-1:Causa lag '
+- '4507:-1:Causa lag '
+- '4309:-1:Causa lag '
+- '4344:-1:Causa lag '
+- '6375:0:uso exclusivo admin '
+Blacklist Placement: []
+Blacklist Pickup: []
+Blacklist Interaction: []
+Blacklist Click: []
+Blacklist Break: []
+Blacklist World: []
