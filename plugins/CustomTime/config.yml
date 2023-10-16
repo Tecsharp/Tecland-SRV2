@@ -5,4 +5,9 @@ worlds:
     day:
       multiplier: 0.25
     night:
-      multiplier: 1.0
+      multiplier: 0.25
+  lobby:
+    day:
+      multiplier: 0.25
+    night:
+      multiplier: 0.25
